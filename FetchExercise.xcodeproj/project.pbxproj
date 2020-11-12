@@ -15,6 +15,7 @@
 		84BE108D255DA42000D87D59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84BE108B255DA42000D87D59 /* LaunchScreen.storyboard */; };
 		84BE1098255DA42000D87D59 /* FetchExerciseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BE1097255DA42000D87D59 /* FetchExerciseTests.swift */; };
 		84BE10A3255DA42100D87D59 /* FetchExerciseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BE10A2255DA42100D87D59 /* FetchExerciseUITests.swift */; };
+		84BE10B4255DA82F00D87D59 /* FetchClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BE10B3255DA82F00D87D59 /* FetchClient.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		84BE109E255DA42000D87D59 /* FetchExerciseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FetchExerciseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84BE10A2255DA42100D87D59 /* FetchExerciseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchExerciseUITests.swift; sourceTree = "<group>"; };
 		84BE10A4255DA42100D87D59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84BE10B3255DA82F00D87D59 /* FetchClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchClient.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				84BE1084255DA41800D87D59 /* ViewController.swift */,
 				84BE1086255DA41800D87D59 /* Main.storyboard */,
 				84BE1089255DA42000D87D59 /* Assets.xcassets */,
+				84BE10B3255DA82F00D87D59 /* FetchClient.swift */,
 				84BE108B255DA42000D87D59 /* LaunchScreen.storyboard */,
 				84BE108E255DA42000D87D59 /* Info.plist */,
 			);
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84BE1085255DA41800D87D59 /* ViewController.swift in Sources */,
+				84BE10B4255DA82F00D87D59 /* FetchClient.swift in Sources */,
 				84BE1081255DA41800D87D59 /* AppDelegate.swift in Sources */,
 				84BE1083255DA41800D87D59 /* SceneDelegate.swift in Sources */,
 			);

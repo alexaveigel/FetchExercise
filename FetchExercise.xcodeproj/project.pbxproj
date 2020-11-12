@@ -16,6 +16,8 @@
 		84BE1098255DA42000D87D59 /* FetchExerciseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BE1097255DA42000D87D59 /* FetchExerciseTests.swift */; };
 		84BE10A3255DA42100D87D59 /* FetchExerciseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BE10A2255DA42100D87D59 /* FetchExerciseUITests.swift */; };
 		84BE10B4255DA82F00D87D59 /* FetchClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BE10B3255DA82F00D87D59 /* FetchClient.swift */; };
+		84BE10B9255DAABC00D87D59 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BE10B8255DAABC00D87D59 /* MainViewController.swift */; };
+		84BE10BE255DACE100D87D59 /* MainTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BE10BD255DACE100D87D59 /* MainTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		84BE10A2255DA42100D87D59 /* FetchExerciseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchExerciseUITests.swift; sourceTree = "<group>"; };
 		84BE10A4255DA42100D87D59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84BE10B3255DA82F00D87D59 /* FetchClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchClient.swift; sourceTree = "<group>"; };
+		84BE10B8255DAABC00D87D59 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		84BE10BD255DACE100D87D59 /* MainTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,8 @@
 				84BE1086255DA41800D87D59 /* Main.storyboard */,
 				84BE1089255DA42000D87D59 /* Assets.xcassets */,
 				84BE10B3255DA82F00D87D59 /* FetchClient.swift */,
+				84BE10B8255DAABC00D87D59 /* MainViewController.swift */,
+				84BE10BD255DACE100D87D59 /* MainTableViewCell.swift */,
 				84BE108B255DA42000D87D59 /* LaunchScreen.storyboard */,
 				84BE108E255DA42000D87D59 /* Info.plist */,
 			);
@@ -265,6 +271,8 @@
 				84BE10B4255DA82F00D87D59 /* FetchClient.swift in Sources */,
 				84BE1081255DA41800D87D59 /* AppDelegate.swift in Sources */,
 				84BE1083255DA41800D87D59 /* SceneDelegate.swift in Sources */,
+				84BE10BE255DACE100D87D59 /* MainTableViewCell.swift in Sources */,
+				84BE10B9255DAABC00D87D59 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
